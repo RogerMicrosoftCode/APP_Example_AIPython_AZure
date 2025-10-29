@@ -85,7 +85,7 @@ Crea un archivo llamado `Dockerfile` en la raíz de tu proyecto:
 
 ```dockerfile
 # Dockerfile
-FROM python:3.11-slim
+FROM python:3.11-slim  CAMBIAR ESTE VALOR POR LA IMAGEN CERTIFICADA INTERNA Y DE QUE REPOSITORIO URL Interno es?
 
 WORKDIR /app
 
